@@ -1,44 +1,6 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-/* '*' 모든 태그를 선택함 */
-
-#header {
-  height: 73px;
-  display: flex;
-  justify-content: center;
-  border-bottom: 1px solid gray;
-}
-
-#body {
-  height: 100vh;
-  width: 1230px;
-  margin: 0 auto;
-  padding-bottom: 24px;
-}
-
-#footer {
-  height: 200px;
-  background-color: rgb(184, 184, 184);
-}
-
 #banner {
   height: 300px;
   background-color: yellow;
-}
-
-#header-area {
-  width: 1024px;
-  height: 100%;
-
-  display: flex;
-  align-items: center;
-}
-
-#header-area > img {
-  width: 171px;
-  height: 48px;
 }
 
 #banner > img {
